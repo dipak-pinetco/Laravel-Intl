@@ -27,7 +27,7 @@
         }
     ],
     "require": {
-        "php": "^7.2.5",
+        "php": "^8.0",
         "illuminate/events": "^5.8|^6.0|^7.0|^8.77",
         "illuminate/support": "^5.8|^6.0|^7.0|^8.77",
         "nesbot/carbon": "^2.55",
